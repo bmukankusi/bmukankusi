@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Betty Mukankusi.
-- 👀 I’m an AR/VR student at ALU, a 3D artist with blender, and UI/UX Designer.
+- 👀 I’m an AR/VR student at ALU, a 3D using blender, and UI/UX Designer.
 - 🌱 I'm learning all about Unity, C# programming, AR/VR development, 3D design, and communication.
 - 💞️ I’m looking to collaborate on UX Design projects, business projects, game development using Unity, and AR/VR experiences, and humanitarian international organizations.
 - 📫 How to reach me: email: b.mukankusi@alustudent.com
