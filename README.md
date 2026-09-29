@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Betty Mukankusi(Or call me Ahavah 😉).
-- 👀 I’m a software engineering graduate from ALU. Interested in emerging technologies(AI), IT, DevOps, and Cloud Engineering.
+- 👀 I’m a software engineering graduate from ALU. Interested in emerging technologies(AI), Data, and Cloud Engineering.
 - 🌱 I'm learning everyday!
 - 💞️ I’m looking forward to building cool tech staff for the sake of learning and for impacting the society.
 - 📫 How to reach me: email: bettymukankusi0@gamil.com
